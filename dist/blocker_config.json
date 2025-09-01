@@ -1,0 +1,11 @@
+{
+    "blocked_items": [
+        {
+            "value": "youtube.com",
+            "type": "Website",
+            "date_added": "2025-08-16",
+            "enabled": false
+        }
+    ],
+    "incognito_blocked": true
+}
